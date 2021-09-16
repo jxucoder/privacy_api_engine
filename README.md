@@ -1,2 +1,4 @@
 # privacy_api_engine
-Scratch
+
+# Roadmap
+1. mapping from entity type to privacy policy
